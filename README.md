@@ -15,7 +15,7 @@ Secure Your Profits: Stay ahead in the market. AgroFriendly's price prediction f
 
 Plan Ahead with Weather Forecasts: Don't let unexpected weather ruin your crops. AgroFriendly provides reliable weather forecasts tailored to your location, so you can plan your farming activities with confidence.
 
-How to Use AgroFriendly?
+**How to Use AgroFriendly?**
 Explore Recommendations: Input your soil parameters and environmental conditions to receive personalized crop recommendations that match your farm's unique characteristics.
 
 Predict Yield: Select your desired crop and provide essential details like area, rainfall, and fertilizer usage to predict the expected yield accurately.
